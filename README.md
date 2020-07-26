@@ -1,5 +1,5 @@
 # Hello!👋
-Hi everyone, I'm Simone Montali, and I've been slamming a mouse on my desk since 1998. I recently graduated at the University of Parma in Computer Engineering (Ingegneria dei Sistemi Informativi), with a grade of 110/110 cum laude. I never liked settling so I have tried lots of things during my IT adventures, bricking included 🙃
+Hi everyone, I'm **Simone Montali**, and I've been slamming a mouse on my desk since **1998**. I recently graduated at the **University of Parma** in **Computer Engineering** (Ingegneria dei Sistemi Informativi), with a grade of 110/110 cum laude. I never liked settling so I have tried lots of things during my IT adventures, bricking included 🙃
 
 [![montali's github stats](https://github-readme-stats.vercel.app/api?username=montali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +19,7 @@ Hi everyone, I'm Simone Montali, and I've been slamming a mouse on my desk since
 * Keras
 * fast.ai 
 
-My first-level degree's thesis involved building a voice assistant for ER rooms to classify patients by their priority.
+My first-level degree's thesis involved building a voice assistant for ER rooms to classify patients by their priority. I plan on studying **Artificial Intelligence** at the **University of Bologna** for my master's degree.
 ### Last but not least, I loved working with these bad bois:
 * Linux/Bash
 * Java
