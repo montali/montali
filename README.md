@@ -19,7 +19,7 @@ Hi everyone, I'm **Simone Montali**, and I've been slamming a mouse on my desk s
 * Keras
 * fast.ai 
 
-My first-level degree's thesis involved building a voice assistant for ER rooms to classify patients by their priority. I plan on studying **Artificial Intelligence** at the **University of Bologna** for my master's degree.
+My first-level degree's thesis involved building a voice assistant for ER rooms to classify patients by their priority. I'm currently enrolled in the **Artificial Intelligence** MSc at the **University of Bologna**, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and the mathematics behind these.
 ### Last but not least, I loved working with these bad bois:
 * Linux/Bash
 * Java
