@@ -2,6 +2,7 @@
 Hi everyone, I'm **Simone Montali**, and I've been slamming a mouse on my desk since **1998**. I graduated at the **University of Parma** in **Computer Engineering** (Ingegneria dei Sistemi Informativi), with a grade of 110/110 cum laude during 2020. I'm currently enrolled in the **Artificial Intelligence** MSc at the **University of Bologna**, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and the mathematics behind these.
 
 I never liked settling so I have tried lots of things during my IT adventures, bricking included 🙃
+In the last years, I've worked as a consultant for multiple companies around Italy, building creative solutions to real-world problems.
 
 [![montali's github stats](https://github-readme-stats.vercel.app/api?username=montali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
