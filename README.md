@@ -1,7 +1,7 @@
 # Hello!👋
 Hi everyone, I'm **Simone Montali**, and I've been slamming a mouse on my desk since **1998**. I graduated at the **University of Parma** in **Computer Engineering** (Ingegneria dei Sistemi Informativi), with a grade of 110/110 cum laude during 2020. I'm about to graduate with an **Artificial Intelligence** MSc at the **University of Bologna**, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and their foundations.
 
-After 5 years as an IT consultant for a small firm in my hometown, I will start working as an ML SWE at Google in May '22!
+After 5 years as an IT consultant for a small firm in my hometown, **I will start working as an ML SWE at Google in May '22!**
 
 [![montali's github stats](https://github-readme-stats.vercel.app/api?username=montali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
